@@ -62,7 +62,7 @@ Connect with your digital assistant below.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=iamabhaydawar&theme=tokyonight)](https://git.io/streak-stats)
 
 <div align="center">
-<img src="https://readme-activity-graph.cyclic.app/graph?username=iamabhaydawar&theme=react-dark&hide_border=true" width="99%" alt="activity graph"/>
+<img src="https://readme-activity-graph.cyclic.app/graph?username=iamabhaydawar&theme=tokyo-day&hide_border=true" width="99%" alt="activity graph"/>
 </div>
 
 <sub>
