@@ -57,12 +57,19 @@ Connect with your digital assistant below.
 
 <h3 align="center">GitHub Diagnostics <img src="https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif" width="28" style="vertical-align: middle"/></h3>
 
-[![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamabhaydawar&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_title=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamabhaydawar&theme=tokyonight)](https://git.io/streak-stats)
 
 <div align="center">
-<img src="https://readme-activity-graph.cyclic.app/graph?username=iamabhaydawar&theme=tokyo-day&hide_border=true" width="99%" alt="activity graph"/>
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/iamabhaydawar">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabhaydawar&theme=tokyonight&hide_border=true"/>
+</a>
+
+<!-- Activity Graph -->
+<a href="https://github.com/iamabhaydawar">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamabhaydawar&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph"/>
+</a>
+
 </div>
 
 <sub>
@@ -108,12 +115,13 @@ Connect with your digital assistant below.
 
 ---
 
-## $ connect --with me
 
-- **OpenForWork**
-- **GitHub:** [@iamabhaydawar](https://github.com/iamabhaydawar)
-- **X (Twitter):** [@iamabhaydawar](https://x.com/iamabhaydawar)
-
+### `$ connect --with me`
+<pre>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" width="15px" style="vertical-align: middle;"> gh:    <a href="https://github.com/iamabhaydawar">@iamabhaydawar</a>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/mail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:ykranjan09@gmail.com">iamabhaydawar@gmail.com</a>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/ykranjan09">@iamabhaydawar</a>
+</pre>
 ---
 
 ## ls tech-stack <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" />
@@ -172,3 +180,4 @@ Connect with your digital assistant below.
 <!--
 TODO: Always improving this README!
 -->
+<!-- Dynamic GitHub Stats (with Jarvis/Tony Stark vibes) -->
