@@ -22,7 +22,7 @@ Data Science @ IITM | Polymath | MERN/Data Engineering/DSA/CS explorer | Advanci
 <!-- whoami JARVIS section, always open -->
 <div>
 
-<h3 align="left"><strong>whoami</strong> <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="JARVIS" width="28" style="vertical-align: middle" /></h3>
+<h3 align="left"><strong>whoami</strong> <img src="https://media.giphy.com/media/3o7budMRwZvNGJ3pyE/giphy.gif" width="49" style="vertical-align: middle" /></h3>
 
 <div align="left" style="font-size: 1.1em;">
 <b>Abhay Dawar activated.</b> <br>
@@ -47,17 +47,14 @@ Always open to bold ideas, open-source collabs, or just talking tech.<br>
 Connect with your digital assistant below.
 </sub>
 
+  <!-- Language Stats -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhaydawar&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" alt="Most Used Languages"/>
 </div>
 
 </td>
 <td valign="top" width="50%">
 
 <!-- Dynamic GitHub Stats (with Jarvis/Tony Stark vibes) -->
-<div align="center">
-
-<h3 align="center">GitHub Diagnostics <img src="https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif" width="28" style="vertical-align: middle"/></h3>
-
-
 
 <div align="center">
   <!-- GitHub Statistics Section -->
@@ -66,8 +63,9 @@ Connect with your digital assistant below.
   <!-- Top Row: Streak and General Stats -->
   <div>
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabhaydawar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamabhaydawar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" alt="GitHub General Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamabhaydawar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub General Stats"/>
   </div>
+
   
   <br/>
   
@@ -75,14 +73,10 @@ Connect with your digital assistant below.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamabhaydawar&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph"/>
 </div>
 
-</div>
-
 <sub>
 <span style="color:#00fff7;">JARVIS STATUS:</span> All systems functional.<br>
 <em>Diagnostics auto-update every 24h.</em>
 </sub>
-
-</div>
 
 </td>
 </tr>
