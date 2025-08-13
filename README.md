@@ -124,7 +124,7 @@ Connect with your digital assistant below.
 </pre>
 ---
 
-## ls tech-stack <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" />
+### `ls tech-stack ✎ᝰ.`
 
 <span>
   <!-- Core Languages & Data -->
