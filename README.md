@@ -1,4 +1,4 @@
-# Hi, I'm Abhay Dawar
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BBBBB9&background=FF5EAD00&width=438&height=51&lines=%23+Hi%2C+I'm+Abhay+Dawar%E2%9A%A1;%3CI'm+Into+Machine+Learning+%3E%F0%9F%A7%A0;%3CI'm+Into+Neural+Networks%3E%F0%9F%95%B8" alt="Typing SVG" /></a>
 
 _Just another builder in the ecosystem — exploring, innovating, and learning on loop._
 
@@ -130,10 +130,11 @@ Connect with your digital assistant below.
   <!-- Core Languages & Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="26" title="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="26" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26" title="C++"/>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" title="TypeScript"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="26" title="Go"/>
   <!-- Correct Rust Icon -->
