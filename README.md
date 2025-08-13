@@ -60,15 +60,20 @@ Connect with your digital assistant below.
 
 
 <div align="center">
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/iamabhaydawar">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabhaydawar&theme=tokyonight&hide_border=true"/>
-</a>
-
-<!-- Activity Graph -->
-<a href="https://github.com/iamabhaydawar">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamabhaydawar&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph"/>
-</a>
+  <!-- GitHub Statistics Section -->
+  <h3>📊 GitHub Statistics</h3>
+  
+  <!-- Top Row: Streak and General Stats -->
+  <div>
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabhaydawar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamabhaydawar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" alt="GitHub General Stats"/>
+  </div>
+  
+  <br/>
+  
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamabhaydawar&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph"/>
+</div>
 
 </div>
 
