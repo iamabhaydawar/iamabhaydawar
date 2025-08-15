@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate Snake Animations
 
 on:
   # run automatically every 24 hours
@@ -11,31 +11,31 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - main
-    
-  
+      - main
 
 jobs:
   generate:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10  # Increased timeout for multiple generations
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      # Generate multiple snake animations with different styles
+      - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+            dist/ocean.svg?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/rainbow.svg?color_snake=rainbow&color_dots=#ff0000,#ffa500,#ffff00,#00ff00,#0000ff,#ff00ff
+            dist/neon.svg?color_snake=#0f0&color_dots=#000,#111,#222,#333,#444
+            dist/cotton-candy.svg?color_snake=#ff69b4&color_dots=#ffb6c1,#ff69b4,#ff1493,#db7093,#c71585
+
+      # Push all generated snakes to the output branch
+      - name: Push Snake SVGs to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
