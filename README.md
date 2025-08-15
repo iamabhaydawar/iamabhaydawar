@@ -180,4 +180,5 @@ Connect with your digital assistant below.
 <!--
 TODO: Always improving this README!
 -->
-<!-- Dynamic GitHub Stats (with Jarvis/Tony Stark vibes) -->
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/iamabhaydawar/iamabhaydawar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
