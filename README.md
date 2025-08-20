@@ -34,7 +34,7 @@ Data Science @ IITM | Polymath | MERN/Data Engineering/DSA/CS explorer | Advanci
 while (curious):
     build(challengingProjects)
     learn(newSkills)
-    innovate()
+    innovate(world)
 ```
 
 - 🧠 <b>Mission:</b> Building intelligent, adaptive systems that empower people and solve real-world problems.
