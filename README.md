@@ -215,8 +215,8 @@ Connect with your digital assistant below.
 
   <!-- Jenkins -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="26" title="Jenkins"/>
-</span>
-<!-- Redis -->
+
+  <!-- Redis -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="26" title="Redis"/>
 
 <!-- Prometheus -->
@@ -224,6 +224,8 @@ Connect with your digital assistant below.
 
 <!-- Grafana -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="26" title="Grafana"/>
+</span>
+
 
 <!--
 TODO: Always improving this README!
