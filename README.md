@@ -63,7 +63,10 @@ Connect with your digital assistant below.
   <!-- Top Row: Streak and General Stats -->
   <div>
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabhaydawar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamabhaydawar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub General Stats"/>
+    <img height="180"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamabhaydawar&theme=github_dark"
+     alt="GitHub Stats"/>
+
   </div>
 
   
