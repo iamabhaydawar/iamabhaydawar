@@ -86,36 +86,38 @@ Connect with your digital assistant below.
 </table>
 
 ---
+<details>
+  <summary><strong>🔥 My Interests & Skills</strong> (click to expand)</summary>
 
-## 🔥 My Interests & Skills
+### MERN Stack Development
+- MongoDB | Express.js | React.js | Node.js
 
-- **MERN Stack Development**  
-  MongoDB | Express.js | React.js | Node.js
+### Data Science & Engineering
+- Machine Learning
+- Deep Learning
+- Data Analysis & Visualization
+- Data Engineering Pipelines
+- Big Data Technologies
 
-- **Data Science & Engineering**
-  - Machine Learning
-  - Deep Learning
-  - Data Analysis & Visualization
-  - Data Engineering Pipelines
-  - Big Data Technologies
+### Computer Science Fundamentals
+- Data Structures & Algorithms (DSA)
+- Operating Systems
+- Database Systems
+- System Design
 
-- **Computer Science Fundamentals**
-  - Data Structures & Algorithms (DSA)
-  - Operating Systems
-  - Database Systems
-  - System Design
+### Mathematics
+- Probability & Statistics
+- Linear Algebra
+- Discrete Math
 
-- **Mathematics**
-  - Probability & Statistics
-  - Linear Algebra
-  - Discrete Math
+### Other Domains
+- Scientific Computing
+- AI for Good
+- Open Source Collaboration
 
-- **Other Domains**
-  - Scientific Computing
-  - AI for Good
-  - Open Source Collaboration
+</details>
 
----
+
 
 
 ### `$ connect --with me`
@@ -233,5 +235,13 @@ Connect with your digital assistant below.
 <!--
 TODO: Always improving this README!
 -->
+<details>
+  <summary><strong>🐍 Contribution Snake</strong> (click to expand)</summary>
+
+<br>
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/iamabhaydawar/iamabhaydawar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/iamabhaydawar/iamabhaydawar/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</details>
+
