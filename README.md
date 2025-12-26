@@ -48,7 +48,8 @@ Connect with your digital assistant below.
 </sub>
 
   <!-- Language Stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhaydawar&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" alt="Most Used Languages"/>
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamabhaydawar&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" alt="Most Used Languages"/>
+
 </div>
 
 </td>
