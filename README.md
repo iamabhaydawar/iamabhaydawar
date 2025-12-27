@@ -57,30 +57,13 @@ Connect with your digital assistant below.
 
 <!-- Dynamic GitHub Stats (with Jarvis/Tony Stark vibes) -->
 
-<div align="center">
-  <!-- GitHub Statistics Section -->
-  <h3>📊 GitHub Statistics</h3>
-  
-  <!-- Top Row: Streak and General Stats -->
-  <div>
-    <img
-  height="180"
-  src="https://streak-stats.demolab.com?user=iamabhaydawar&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak Stats"
-/>
+### 📊 GitHub Statistics
 
-<img height="180"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamabhaydawar&theme=github_dark"
-     alt="GitHub Stats"/>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=iamabhaydawar&theme=tokyonight&hide_border=true)](https://github-readme-streak-stats-eight.vercel.app?user=iamabhaydawar&theme=tokyonight&hide_border=true)
 
-  </div>
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamabhaydawar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamabhaydawar&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-  
-  <br/>
-  
-  <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamabhaydawar&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph"/>
-</div>
 
 <sub>
 <span style="color:#00fff7;">JARVIS STATUS:</span> All systems functional.<br>
