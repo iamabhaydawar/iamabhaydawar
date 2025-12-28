@@ -112,8 +112,8 @@ Connect with your digital assistant below.
 ### `$ connect --with me`
 <pre>
 <img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" width="15px" style="vertical-align: middle;"> gh:    <a href="https://github.com/iamabhaydawar">@iamabhaydawar</a>
-<img src="https://img.icons8.com/material-outlined/24/FFFFFF/mail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:ykranjan09@gmail.com">iamabhaydawar@gmail.com</a>
-<img src="https://img.icons8.com/material-outlined/24/FFFFFF/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/ykranjan09">@iamabhaydawar</a>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/mail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:iamabhaydawar@gmail.com">iamabhaydawar@gmail.com</a>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/iamabhaydawar">@iamabhaydawar</a>
 </pre>
 ---
 
