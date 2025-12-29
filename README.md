@@ -108,14 +108,31 @@ Connect with your digital assistant below.
 
 
 
-
 ### `$ connect --with me`
-<pre>
+
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <pre>
 <img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" width="15px" style="vertical-align: middle;"> gh:    <a href="https://github.com/iamabhaydawar">@iamabhaydawar</a>
 <img src="https://img.icons8.com/material-outlined/24/FFFFFF/mail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:iamabhaydawar@gmail.com">iamabhaydawar@gmail.com</a>
 <img src="https://img.icons8.com/material-outlined/24/FFFFFF/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/iamabhaydawar">@iamabhaydawar</a>
-</pre>
----
+      </pre>
+      
+ <div align="left">
+        <img src="https://raw.githubusercontent.com/iamabhaydawar/iamabhaydawar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="GitHub Snake" />
+        <img src="https://raw.githubusercontent.com/iamabhaydawar/iamabhaydawar/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="GitHub Snake" />
+      </div>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://cdna.artstation.com/p/assets/images/images/079/639/590/original/killer-rabbit-media-roof-dog-boy-gif.gif?1725441172" 
+           width="100%" 
+           style="border-radius: 15px; border: 2px solid #58A6FF; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3);">
+    </td>
+  </tr>
+</table>
+
+
 
 ### `ls tech-stack ✎ᝰ.`
 
@@ -224,7 +241,7 @@ Connect with your digital assistant below.
 <!--
 TODO: Always improving this README!
 -->
-<details>
+<!-- <details>
   <summary><strong>🐍 Contribution Snake</strong> (click to expand)</summary>
 
 <br>
@@ -232,5 +249,5 @@ TODO: Always improving this README!
 ![GitHub Snake Dark](https://raw.githubusercontent.com/iamabhaydawar/iamabhaydawar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake Light](https://raw.githubusercontent.com/iamabhaydawar/iamabhaydawar/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-</details>
+</details> -->
 
