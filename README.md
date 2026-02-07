@@ -8,9 +8,7 @@ _Just another builder in the ecosystem — exploring, innovating, and learning o
 Driven by innovation and curiosity, I thrive at the intersection of technology, mathematics, and human advancement.
 
 > _“In the realm where numbers meet curiosity, equations become bridges to tomorrow.”_
-
-**Summary:**  
-Data Science @ IITM | Polymath | MERN/Data Engineering/DSA/CS explorer | Advancing humanity through scientific breakthroughs
+ Advancing humanity through scientific breakthroughs
 
 ---
 
