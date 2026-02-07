@@ -5,7 +5,7 @@ _Just another builder in the ecosystem — exploring, innovating, and learning o
 ---
 
 ## 🌟 About Me
-BS DATASCIENCE @iitm . Driven by innovation and curiosity, I thrive at the intersection of technology, mathematics, and human advancement.
+Driven by innovation and curiosity, I thrive at the intersection of technology, mathematics, and human advancement.
 
 > _“In the realm where numbers meet curiosity, equations become bridges to tomorrow.”_
 
