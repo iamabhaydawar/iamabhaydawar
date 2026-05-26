@@ -24,12 +24,13 @@ Some cool gifs regarding my areas of interests:
 
 
 ### 💻 Github Projects
-### 🚀 Experimental Projects
+### 🚀 Agentic Engineering Projects
 
 | **Project** | **Description** |
 |-------------|-----------------|
 | **[DevRadar](https://github.com/iamabhaydawar/devradar)** · AI Career Intelligence Platform | AI-powered career intelligence platform for Indian developers. Maps personal tech stacks into a **live knowledge graph**, intelligently matches users to top startups, surfaces relevant hackathons, identifies skill gaps, and delivers personalized learning roadmaps + career chat. Built with **React 18 (Vite)**, **Node.js + Express**, **Groq (primary AI)** + Claude fallback, and **HydraDB** for persistent memory. Features vis-network graph visualization, 4-step onboarding, 3 light themes, and graceful degradation.<br><br>`React` · `Node.js` · `Groq` · `Claude` · `HydraDB` |
 | **[Zombie CLI](https://github.com/iamabhaydawar/zombie-cli)** · LLM Routing Engine | Multi-specialist AI routing engine that decomposes queries into subtasks and dispatches each to the best narrow model — **Claude for code**, **DeepSeek R1 for math**, **Perplexity Sonar for research**, **Gemini Flash for summarization**, **GPT-4o for structured output**, **Grok-3 for fact-checking**. Built on **LangGraph** with parallel/sequential execution, automatic fallback routing, and a cross-family **verification loop** with retry.<br><br>`Python` · `LiteLLM` · `Typer` · `Pydantic` |
+| **[MnemOS](https://github.com/iamabhaydawar/MnemOS)** · Agentic OS with Persistent Memory | A **visual workflow builder for desktop AI agents** running in a fully containerized virtual desktop. Agents carry memory across sessions via **HydraDB**, recover from failures automatically, and adapt strategy based on past runs. Extends a browser-automation engine with four primitives: **Remember**, **Recall**, **Recover**, and **Plan** nodes — enabling graph-enhanced semantic retrieval and LLM-guided retry logic. Built for the *"Agents Under Pressure"* hackathon.<br><br>`Python` · `FastAPI` · `React` · `Groq` · `HydraDB` · `Playwright` · `Docker` |
 
 ### 🛠 Data Engineering Projects
 
