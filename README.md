@@ -18,7 +18,7 @@ I also create open-source AI tools — from intelligent LLM routers to career in
 Some cool gifs regarding my areas of interests:
 | **Gradient Descent**<br>(Optimization in action — pure Manim elegance) | **Backpropagation**<br>(How neural nets actually learn) |
 |-----------------------------------------------------------------------|---------------------------------------------------------|
-| <img src="https://i.redd.it/10msjwkgp9o91.gif" height="300" alt="Gradient Descent — 3Blue1Brown / Manim style animation"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Backprop_negonly.gif/220px-Backprop_negonly.gif" height="300" alt="Backpropagation animation"> |
+| <img src="https://i.redd.it/10msjwkgp9o91.gif" height="300" alt="Gradient Descent — 3Blue1Brown / Manim style animation"> | <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*VF9xl3cZr2_qyoLfDJajZw.gif" height="300" alt="Backpropagation animation"> |
 
 
 
